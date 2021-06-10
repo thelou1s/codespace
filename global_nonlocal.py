@@ -1,3 +1,5 @@
+# https://ideone.com/gpPmsT
+
 # global val
 bar_1 = 0
  
